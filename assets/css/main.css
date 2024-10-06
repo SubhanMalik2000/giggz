@@ -1103,7 +1103,7 @@ section,
 }
 .step-circle1 {
   background-color: #ffaeae;
-  width: 60px;
+  width: 75px;
   height: 60px;
   border-radius: 50%;
   display: flex;
@@ -1113,18 +1113,17 @@ section,
 }
 .step-circle2 {
   background-color: #cdffd8;
-  width: 60px;
+  width: 75px;
   height: 60px;
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
-
   margin-right: 20px;
 }
 .step-circle3 {
   background-color: #d5cdff;
-  width: 60px;
+  width: 75px;
   height: 60px;
   border-radius: 50%;
   display: flex;
